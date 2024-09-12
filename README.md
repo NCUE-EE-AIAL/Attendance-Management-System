@@ -30,3 +30,5 @@ Attendance records are stored in CSV format. Also, the user can store the data i
 ### Manual Attendance Entry: 
 If automatic recognition is not possible, the system offers a manual attendance entry option through the GUI.
 
+# Acknowledge
+This research is supported by TEEP (Taiwan Experience Education Program) at National Changhua University of Education
